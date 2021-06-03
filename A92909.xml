@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The sad estate of the kingdom being an account of the first years charge of our reformation.</title>
+         </titleStmt>
+         <extent>Approx. 11KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92909</idno><idno type="EEBO-CITATION">36282338</idno>
+  <idno type="VID">150252</idno>
+  <idno type="EEBO-PROQUEST">2240866199</idno>
+  
+            <idno type="STC">Wing S252A</idno>
+            <idno type="STC">ESTC R42565</idno>
+            <idno type="OCLC">36282338</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A92909)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 150252)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2237:25)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The sad estate of the kingdom being an account of the first years charge of our reformation.</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1690?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: cropped and stained.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  Politics and government --  1689-1702.</term>
+               <term type="geographic_name">Great Britain --  History --  William and Mary, 1689-1702.</term>
+               <term type="genre_form">Broadsides --  London (England) --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:150252:1"/>
+            <pb facs="tcp:150252:2"/>
+            <head>
+               <hi>THE <hi>Sad Estate</hi> OF THE KINGDOM, Being an account of the first years charge of our Reformation.</hi>
+            </head>
+            <p>It is an old Custom in <hi>England</hi> among <hi>Tradesmen,</hi> to Cast up their Books at <hi>Christmas:</hi> After their example I have thought fit to draw up the last years Account of the Kingdom, by way of <hi>Debtor</hi> and <hi>Creditor,</hi> so plainly, that he that runs may read it. They that love <hi>England</hi> I am sure cannot like it, but for that reason they should help to mend it. When they know the <hi>Disease,</hi> it will not be hard to find out the <hi>Cure.</hi> If our miserys do not mend our Hearts, I wish, at least, they may our Ʋnderstandings.</p>
+            <p>
+               <table>
+                  <row>
+                     <cell role="label" cols="2">Kingdom Debtor,</cell>
+                     <cell role="label">Kingdom Creditor,</cell>
+                  </row>
+                  <row>
+                     <cell cols="2">I. TO the loss of three of the ten <hi>Com<g ref="char:EOLhyphen"/>mandments, Honour thy Father: Thou shalt not Steal: Nor covet any thing that is thy Negh<g ref="char:EOLhyphen"/>bours:</hi> And those of the Gospel, <hi>Do as you would be done by: Don't do evil that good may come of it, nor reward evil with evil, but love one another.</hi>
+                     </cell>
+                     <cell>I. TO the <hi>pretence</hi> of preserving us from <hi>Popery and Arbitrary</hi> Government, by reforming abuses in <hi>Elections</hi> of Parliament, <hi>set<g ref="char:EOLhyphen"/>ling</hi> Corporations, <hi>limiting</hi> the Prerogative, and <hi>Securing</hi> our Laws and Liberties against a stand<g ref="char:EOLhyphen"/>ing Army, specially of <hi>Foreigners</hi> and <hi>Papists.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell cols="2">II. To the loss of the Doctrine of <hi>Passive-Obe<g ref="char:EOLhyphen"/>dience,</hi> and <hi>Non-resistance,</hi> which first recom<g ref="char:EOLhyphen"/>mended the <hi>Primitive Christians</hi> to the mercy and Protection of Kings and Emperours, and has e<g ref="char:EOLhyphen"/>ver since the Reformation been the <hi>Characteristick</hi> of the Church of England.</cell>
+                     <cell>II. To the Doctrines of <hi>Might</hi> is <hi>Right,</hi> and the <hi>Jus Divinum</hi> of the <hi>MOBB.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell cols="2">III. To the <hi>loss</hi> of an <hi>English King</hi> in the right Line, by the new art of <hi>Abdication,</hi> who with all his faults, was Affable, Sober, Just and diligent; and Innocent of the <hi>main matters</hi> suggested a<g ref="char:EOLhyphen"/>gainst him.</cell>
+                     <cell>III. To a <hi>Dutch King,</hi> such an one as he is, with abundance of new <hi>Lords</hi> and <hi>Officers</hi> of both houses of <hi>Parliament,</hi> that are yet to <hi>deserve</hi> their honour, and <hi>learn</hi> their business.</cell>
+                  </row>
+                  <row>
+                     <cell cols="2">IV. To the <hi>loss</hi> of <hi>Ireland,</hi> by that means, worth <hi>thirty Millions</hi> of pounds sterling, and the Con<g ref="char:EOLhyphen"/>veniencies of its <hi>Neighbourhood, Trade</hi> and <hi>Ports</hi> for our safety and benefit, <hi>unvalluable.</hi>
+                     </cell>
+                     <cell cols="2">IV. To a <hi>standing Army</hi> of <hi>Foreigners,</hi> brought in and upheld without advice of Parliament, that will Certainly do as <hi>King William</hi> pleases.</cell>
+                  </row>
+                  <row>
+                     <cell cols="2">V. To <hi>five Millions</hi> expended this year to beat the <hi>French</hi> and recover <hi>Ireland.</hi>
+                     </cell>
+                     <cell>V. To <hi>Schomberg's</hi> success against the <hi>Irish</hi> and <hi>Harbert's</hi> against the <hi>French,</hi> such as it was.</cell>
+                  </row>
+                  <row>
+                     <cell cols="2">VI.
+<list>
+                           <item>To thirteen Thousand <hi>Souldiers</hi> dead in <hi>Schombourgs</hi> Army, without Sword or Gun, in an unusal and lamentable manner.</item>
+                           <item>To three Thousand Men killed, taken and de<g ref="char:EOLhyphen"/>serted to <hi>King James.</hi>
+                           </item>
+                           <item>To the <hi>loss</hi> of <hi>Dundalk, Carlingford James-Town</hi> and <hi>Slego,</hi> with <hi>four Counties</hi> in <hi>Ʋlster,</hi> which is the only Province of <hi>Ireland,</hi> where the <hi>English Forces</hi> have any footing.</item>
+                           <item>To eleven Thousand <hi>Souls</hi> that perished in <hi>London-derry</hi> besides many <hi>English</hi> and <hi>Scotch</hi> Inha<g ref="char:EOLhyphen"/>bitants that dyed of the same deseases in the <hi>North</hi>
+                           </item>
+                        </list>
+                     </cell>
+                     <cell>VI. To fifteen Hundred men killed and taken, and a <hi>Thousand Shams</hi> and <hi>Stories</hi> to keep up the Spirits of the People, especially of mighty <hi>Vic<g ref="char:EOLhyphen"/>tories, Slaughters</hi> and <hi>REVOLTS,</hi> that time has detected with a Vengeance.</cell>
+                  </row>
+                  <row>
+                     <cell cols="2">VII. To six Thousand <hi>Men</hi> that <hi>died</hi> in <hi>Flan<g ref="char:EOLhyphen"/>ders,</hi> out of the nine Thousand, <hi>forced</hi> into the <hi>Dutch</hi> and <hi>Spanish</hi> service last year against the <hi>French</hi> for helping <hi>King James.</hi>
+                     </cell>
+                     <cell>VII. To the Dutch-friendship, especially in <hi>Trade,</hi> and that of the <hi>Spaniard</hi> and confede<g ref="char:EOLhyphen"/>rates, though good for little else but to <hi>pick our pockets.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell cols="2">VIII. To seven Thousand <hi>Sea-men</hi> that died upon the Fleet, of strange distempers.</cell>
+                     <cell>VIII. To poysoned Victuals, or any thing else <hi>but the hand of God Almighty.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell cols="2">IX. To five Thousand <hi>Sea-men</hi> taken by the <hi>French,</hi> both upon men of War and Marchant men, notwithstanding our Fleet.</cell>
+                     <cell>IX. To five Hundred twenty nine <hi>French</hi> Prisoners taken by us.</cell>
+                  </row>
+                  <row>
+                     <cell cols="2">X. To twenty <hi>Men of War taken</hi> and lost: the <hi>value,</hi> at least <hi>two hundred thousand pounds,</hi> which is more then has been lost in three <hi>Dutch</hi> Wars.</cell>
+                     <cell>X. To one small man of War, and two Priva<g ref="char:EOLhyphen"/>tiers taken by us; the first of which was <hi>reta<g ref="char:EOLhyphen"/>ken,</hi> and other two lately <hi>destroyed</hi> by the storm at <hi>Plymouth.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell cols="2">XI. To four Hundred, Sail of <hi>Marchant-men</hi> taken by the French, &amp; twenty five lost by storms, of which nine were driven off of our own Coasts to <hi>France,</hi> whose Hulls and Cargo are valued at two Millions five Hundred Thousand pounds, many of the Ships being as big as our large fourth rate Frigats.</cell>
+                     <cell>XI. To twenty five French prizes taken by us, of <hi>small burden</hi> and <hi>mean loading,</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell cols="2">XII. To thirty Thousand pounds for pulling down and building up one side of <hi>Hampton-Court,</hi> and altering the Gardings, and rebuilding what <hi>fell down.</hi>
+                     </cell>
+                     <cell>XII. To a more modish apartment with con<g ref="char:EOLhyphen"/>venient <hi>back-Staires,</hi> though the old one had served well enough <hi>eight crowned Heads</hi> in better times, besides <hi>Cromwell,</hi> that loved it of all places.</cell>
+                  </row>
+                  <row>
+                     <cell cols="2">XIII. To twenty Thousand pounds for my Lord <hi>Nottingham</hi> and his house, and twenty thousand more to re-build it, with that which <hi>fell down</hi> of the new building; for it seems they have built with <hi>untempered Morter.</hi>
+                     </cell>
+                     <cell>XIII. To a Good <hi>Receipt</hi> for the <hi>Ptisick.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell cols="2">XIV. To the <hi>Navy, Army</hi> and <hi>Houshold</hi> for the most part three quarters Sallery <hi>unpayd.</hi>
+                     </cell>
+                     <cell>XIIII. To six Hundred Thousand pounds sent to <hi>Holland</hi> for fear of the worst, and as much more to fetch over <hi>foreign Ships and Troops,</hi> for the better perserving our Rights and Privileges, English men not being to be <hi>trusted</hi> in a business that so nearly concerns them.</cell>
+                  </row>
+                  <row>
+                     <cell cols="2">XV. To the loss of a great part of <hi>Scotland,</hi> and the <hi>hazard</hi> of the Rest.</cell>
+                     <cell>XV. To the Maintaining of the <hi>Prerogative</hi> of the Crown against Scotch <hi>Republicans,</hi> in that OUR antient Kingdom.</cell>
+                  </row>
+                  <row>
+                     <cell cols="2">XVI. To the loss of fifteen Hundred English, <hi>Horse and Foot,</hi> in that Kingdom; besides more Scotch.</cell>
+                     <cell>XVI. To the exploits of <hi>Mackay.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell cols="2">XVII. To a whole year lost in <hi>Trade</hi> and <hi>War,</hi> not to be computed.</cell>
+                     <cell>XVII. To our <hi>own folly and Gods Judgments.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell cols="2">XVIII. To two Millions that we are yet in Debt.</cell>
+                     <cell>XVIIII. To three shillings in the pound, and a new Parliament with more <hi>foreign Forces</hi> and <hi>home Levies,</hi> and forty Thousand <hi>Bagionets</hi> (in<g ref="char:EOLhyphen"/>stead of Dr <hi>Oates</hi> forty Thousand <hi>black Bills</hi>) now bespokon, and making; and <hi>saddles, bridles,</hi> and other furniture coming from <hi>Germany,</hi> by the <hi>Jews</hi> means; for all Nations must have a share of us.</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <row>
+                     <cell role="label">The total of loss in Money</cell>
+                     <cell role="label">I. Money</cell>
+                     <cell rows="2">To ballance this, we may perhaps have taken and destroyed, in all, three Thousand of our Enemies, got twenty five Sale of small Craft, worth twen<g ref="char:EOLhyphen"/>ty Thousand pound at the most, but remain a most sick Army in <hi>Ireland;</hi> the <hi>astonishment</hi> of all beholders and <hi>a mutinous, tattered</hi> and <hi>diseased Fleet still.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Ireland</hi>
+                     </cell>
+                     <cell>30000000</cell>
+                  </row>
+                  <row>
+                     <cell>Taxes</cell>
+                     <cell>05000000</cell>
+                  </row>
+                  <row>
+                     <cell>Merchants Ships</cell>
+                     <cell>02500000</cell>
+                  </row>
+                  <row>
+                     <cell>Men of War</cell>
+                     <cell>00200000</cell>
+                  </row>
+                  <row>
+                     <cell>Hampton-Court</cell>
+                     <cell>00030000</cell>
+                  </row>
+                  <row>
+                     <cell>Nottingham-house</cell>
+                     <cell>00040000</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell role="total">37770000</cell>
+                  </row>
+                  <row>
+                     <cell role="label">The total of men lost</cell>
+                     <cell role="label">Men</cell>
+                  </row>
+                  <row>
+                     <cell>By death, in <hi>Schomburgs</hi> Army</cell>
+                     <cell>13000</cell>
+                  </row>
+                  <row>
+                     <cell>Killed, taken and deserted</cell>
+                     <cell>03000</cell>
+                  </row>
+                  <row>
+                     <cell>Perished in <hi>Londondery</hi>
+                     </cell>
+                     <cell>11000</cell>
+                  </row>
+                  <row>
+                     <cell>Dead, deserted &amp; killed in <hi>Flanders</hi>
+                     </cell>
+                     <cell>06000</cell>
+                  </row>
+                  <row>
+                     <cell>Dead in the Fleet</cell>
+                     <cell>07000</cell>
+                  </row>
+                  <row>
+                     <cell>Dead, taken and deserted in <hi>Scotland</hi>
+                     </cell>
+                     <cell>03000</cell>
+                  </row>
+                  <row>
+                     <cell>Men taken by the <hi>French</hi>
+                     </cell>
+                     <cell>05000</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell role="total">48000</cell>
+                  </row>
+               </table>
+            </p>
+            <p>Hear you see the first years account of our deliverance. <hi>Vast Taxes, mighty Losses, great Mortality,</hi> so that we have been delivered of more <hi>Men, Money</hi> and <hi>Ships,</hi> then our <hi>Civil</hi> and <hi>Dutch</hi> Wars formerly cost us, insomuch as they that see not the <hi>heavy</hi> hand of God upon us, are blind to provi<g ref="char:EOLhyphen"/>dence, our sufferings in <hi>Interest,</hi> as well as <hi>Reputation,</hi> having surpassed all remedy as well as exam<g ref="char:EOLhyphen"/>ple, unless we speedily repent of our impiety to God, our Injustice to our King and our malice against one another.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
